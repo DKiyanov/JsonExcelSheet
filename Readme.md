@@ -7,7 +7,7 @@ It is necessary for processing of considerable volumes of json data (not huge, b
 The basic principle: 
 Each column of header row contain the path to the json data, the filled cells of the column contain data having the same path which specified in the header of column. Detailed description see below in "Description of format output".
 
-The project provided a ready-to-use Excel file, containing on the "Sheet1" buttons and all the necessary descriptions and of course macros.
+The project provided a ready-to-use [Excel file](Jsoner.xltm), containing on the "Sheet1" buttons and all the necessary descriptions and of course macros.
 
 Json parsing implemented using library https://github.com/VBA-tools/VBA-JSON
 
